@@ -1,0 +1,1 @@
+:src/Main.cpp |> g++ src/Main.cpp src/Game.h src/Game.cpp -o bin/darkfollowing |> bin/darkfollowing.exe
